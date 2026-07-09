@@ -143,7 +143,7 @@ with st.sidebar:
 # ============================================================
 # 3) HEADER — VÙNG ĐỊNH HƯỚNG
 # ============================================================
-st.title("🏦 Dự báo Rủi ro Tín dụng Khách hàng - Mô hình 5C")
+st.title("Dự báo Rủi ro Tín dụng KH tỉnh Hoa Thanh Quế")
 st.caption(
     "Ứng dụng dùng thuật toán **Logistic Regression** để dự báo xác suất rủi ro tín dụng (PD) "
     "dựa trên 24 biến khảo sát thuộc 5 nhóm tiêu chí tín dụng cổ điển (5C): "
